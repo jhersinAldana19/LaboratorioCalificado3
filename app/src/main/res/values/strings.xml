@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado3</string>
+    <string name="ejercicio01_title">Listado de Profesores</string>
+    <string name="fetching_data">Obteniendo datos...</string>
+    <string name="error_fetching_data">Error al obtener datos</string>
+    <string name="user_name_placeholder">Nombre</string>
+    <string name="user_last_name_placeholder">Apellido</string>
+    <string name="user_photo_url_placeholder">https://mi_servidor.com/imagen.jpg</string>
+
+</resources>
